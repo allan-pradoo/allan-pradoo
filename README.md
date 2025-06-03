@@ -52,8 +52,7 @@ Tenho profundo interesse em **Inteligência Artificial** e **Análise de Dados**
 |--------|-----------|-------------|
 | 🧠 **IA na Indústria do Petróleo** | Desenvolvimento de modelos de IA para análise e previsão no setor de petróleo, com foco na automação e inteligência aplicada em dados científicos. | Python, Scikit-learn, Pandas, Jupyter |
 
-#### 📸 Imagem ilustrativa (simulação de processo IA)
-![pesquisa-demo](https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif)
+
 
 ---
 
