@@ -1,28 +1,27 @@
-# 👨‍💻 Sobre Mim
+# 👨‍💻 About Me
 
-![Status](https://img.shields.io/badge/Status-Estudante%20%2F%20Pesquisador-brightgreen)
+![Status](https://img.shields.io/badge/Status-Student%20%2F%20Researcher-brightgreen)
 ![CSharp](https://img.shields.io/badge/C%23-.NET-8A2BE2?logo=c-sharp)
 ![React](https://img.shields.io/badge/React-JS-61DAFB?logo=react)
-![Python](https://img.shields.io/badge/Python-IA-yellow?logo=python)
+![Python](https://img.shields.io/badge/Python-AI-yellow?logo=python)
 ![GitHub](https://img.shields.io/github/followers/allan-pradoo?label=Follow&style=social)
 
-Olá! Me chamo **Allan Bruno Santana Prado** e sou estudante de **Ciência da Computação**. Atualmente integro a **Iniciação Científica** no [NUESC - ITP](https://www.ifto.edu.br), onde participo de um projeto de pesquisa sobre **petróleo**, sendo responsável pelo desenvolvimento de uma **IA aplicada à área**.
+Hi! My name is **Allan Bruno Santana Prado**, and I’m a **Computer Science student**. I’m currently part of the **Scientific Research Program at [NUESC - ITP](https://www.ifto.edu.br)**, where I work on a research project related to **petroleum**, developing an **AI system** focused on scientific data analysis and prediction.
 
-Tenho profundo interesse em **Inteligência Artificial** e **Análise de Dados**, e gosto de desenvolver **backends com C# .NET**, além de já ter feito projetos com **JavaScript**, **React**, **HTML** e **CSS**.
+I'm passionate about **Artificial Intelligence** and **Data Analysis**, and I enjoy building **backends using C# .NET**. I’ve also developed web projects using **JavaScript**, **React**, **HTML**, and **CSS**.
 
 ---
 
 <hr>
-
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=allan-pradoo&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0&cache_seconds=60" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allan-pradoo&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0&cache_seconds=60" />
 </div>
 
+---
 
-
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tools & Technologies
 
 ![VS Code](https://img.shields.io/badge/Editor-VSCode-007ACC?logo=visual-studio-code)
 ![Visual Studio](https://img.shields.io/badge/IDE-Visual%20Studio-5C2D91?logo=visual-studio)
@@ -30,39 +29,37 @@ Tenho profundo interesse em **Inteligência Artificial** e **Análise de Dados**
 ![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter)
 
-- 💻 **C# .NET** – Backends, APIs e sistemas CRUD
-- ⚛️ **ReactJS** – Interfaces dinâmicas e interativas
-- 📊 **Python (IA e Dados)** – Machine Learning, Data Science
+- 💻 **C# .NET** – Backends, APIs, and CRUD systems
+- ⚛️ **ReactJS** – Dynamic and interactive user interfaces
+- 📊 **Python (AI & Data)** – Machine Learning, Data Science
 - 🌐 **HTML, CSS, JavaScript** – Web development
 
 ---
 
-## 🚀 Objetivos
+## 🚀 Goals
 
-- Tornar-me especialista em **Inteligência Artificial**
-- Trabalhar como **Analista de Dados**
-- Contribuir com projetos open source e acadêmicos
-- Aplicar IA para resolver problemas reais e relevantes
-
----
-
-## 🔬 Projeto de Pesquisa
-
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| 🧠 **IA na Indústria do Petróleo** | Desenvolvimento de modelos de IA para análise e previsão no setor de petróleo, com foco na automação e inteligência aplicada em dados científicos. | Python, Scikit-learn, Pandas, Jupyter |
-| 🌱 **IA para Análise de Biocombustível** | Criação de uma IA capaz de analisar o caldo do coco para prever propriedades relevantes no contexto da produção de biocombustíveis. | Python, Machine Learning, Análise de Dados, Jupyter |
-
-
+- Become a specialist in **Artificial Intelligence**
+- Work as a **Data Analyst**
+- Contribute to open-source and academic projects
+- Apply AI to solve real-world problems
 
 ---
 
-## 📫 Contato
+## 🔬 Research Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Acessar-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/allan-prado-39b301366/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?logo=github&style=flat-square)](https://github.com/allan-pradoo)  
-[![Email](https://img.shields.io/badge/Email-allanprado.dev@gmail.com-red?logo=gmail&style=flat-square)](allanprado.dev@gmail.com)
+| Project | Description | Technologies |
+|--------|-------------|--------------|
+| 🧠 **AI in the Petroleum Industry** | Development of AI models for data analysis and prediction in the petroleum sector, focusing on automation and intelligent data processing. | Python, Scikit-learn, Pandas, Jupyter |
+| 🌱 **AI for Biofuel Analysis** | Building an AI system to analyze coconut sap and predict relevant properties for biofuel production. | Python, Machine Learning, Data Analysis, Jupyter |
 
 ---
 
-> _“Transformar dados em decisões inteligentes é mais do que uma meta, é minha missão.”_
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-View-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/allan-prado-39b301366/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github&style=flat-square)](https://github.com/allan-pradoo)  
+[![Email](https://img.shields.io/badge/Email-allanprado.dev@gmail.com-red?logo=gmail&style=flat-square)](mailto:allanprado.dev@gmail.com)
+
+---
+
+> _“Turning data into smart decisions is more than a goal — it’s my mission.”_
