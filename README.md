@@ -6,7 +6,7 @@
 ![Python](https://img.shields.io/badge/Python-AI-yellow?logo=python)
 ![GitHub](https://img.shields.io/github/followers/allan-pradoo?label=Follow&style=social)
 
-Hi! My name is **Allan Bruno Santana Prado**, and I’m a **Computer Science student**. I’m currently part of the **Scientific Research Program at [NUESC - ITP](https://www.ifto.edu.br)**, where I work on a research project related to **petroleum**, developing an **AI system** focused on scientific data analysis and prediction.
+Hi! My name is **Allan Bruno Santana Prado**, and I’m a **Computer Science student**. I’m currently part of the **Scientific Research Program at [NUESC - ITP](https://www.itp.org.br)**, where I work on a research project related to **petroleum**, developing an **AI system** focused on scientific data analysis and prediction.
 
 I'm passionate about **Artificial Intelligence** and **Data Analysis**, and I enjoy building **backends using C# .NET**. I’ve also developed web projects using **JavaScript**, **React**, **HTML**, and **CSS**.
 
