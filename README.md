@@ -54,6 +54,15 @@ I'm passionate about **Artificial Intelligence** and **Data Analysis**, and I en
 
 ---
 
+## 💡 Projects
+
+| Project | Description | Technologies |
+|--------|-------------|--------------|
+| 🧠 **AI Sentiment Prediction System** | Development of an AI model to classify human sentiments based on textual input. The system includes a RESTful API for prediction and a dynamic dashboard for visualization and user interaction. | Python (Machine Learning, FastAPI), ReactJS, Pandas, Scikit-learn, Jupyter |
+| 📈 **Sentiment Dashboard & API** | A full-stack solution where an AI backend processes user input, predicts sentiment (e.g., frustration, urgency, neutrality), and presents the results through a clean and responsive React interface. | Python, ReactJS, REST API, JSON, Chart.js |
+
+---
+
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-View-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/allan-prado-39b301366/)  
