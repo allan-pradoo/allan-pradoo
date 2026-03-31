@@ -16,8 +16,11 @@ I’m currently part of the **Scientific Research Program at [NUESC - ITP](https
 ---
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=allan-pradoo&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0&cache_seconds=60" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allan-pradoo&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0&cache_seconds=60" />
+
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=allan-pradoo&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&border_color=0d1117" /> 
+
+  <img width="41%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=allan-pradoo&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=80F7D4&text_color=c9d1d9&border_color=0d1117" />
+
 </div>
 
 ---
@@ -55,11 +58,11 @@ I’m currently part of the **Scientific Research Program at [NUESC - ITP](https
 ### 🛠️ Tools & Environment
 ![VS Code](https://img.shields.io/badge/Editor-VSCode-007ACC?logo=visual-studio-code)
 ![Visual Studio](https://img.shields.io/badge/IDE-Visual%20Studio-5C2D91?logo=visual-studio)
+![IntelliJ](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-000000?logo=intellij-idea)
 ![SQL Server](https://img.shields.io/badge/Database-SQL--Server-CC2927?logo=microsoft-sql-server)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git)
 ![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?logo=docker)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter)
-![IntelliJ](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-000000?logo=intellij-idea)
 
 ---
 
