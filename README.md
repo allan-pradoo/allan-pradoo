@@ -17,12 +17,17 @@ I’m currently part of the **Scientific Research Program at [NUESC - ITP](https
 
 <div align="center">  
 
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=allan-pradoo&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&border_color=0d1117" /> 
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=allan-pradoo&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=0d1117&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&border_color=0d1117" /> 
 
-  <img width="41%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=allan-pradoo&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=80F7D4&text_color=c9d1d9&border_color=0d1117" />
+  <img width="41%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=allan-pradoo&layout=compact&langs_count=8&theme=tokyonight&bg_color=0d1117&title_color=80F7D4&text_color=c9d1d9&border_color=0d1117" />
 
 </div>
 
+<div align="center">
+
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=allan-pradoo&theme=tokyo-night&bg_color=0d1117&color=80F7D4&line=9d00ff&point=ffffff&area=true&hide_border=true"/>
+
+</div>
 ---
 
 ## 🚀 Tech Stack
